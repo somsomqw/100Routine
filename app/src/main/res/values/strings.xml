@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">100Routine</string>
+
+    <string name="msg_not_memo">저장된 메모가 없습니다</string>
+
+</resources>
